@@ -1,0 +1,23 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment / credentials
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Node / build output (in case examples are added later)
+node_modules/
+.next/
+out/
+dist/
+
+# Temporary files
+*.tmp
+*.temp
