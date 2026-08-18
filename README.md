@@ -13,6 +13,8 @@ Newton.ai is an AI-powered A-Level Mathematics platform designed to support stud
 - Generates topic-based mini assessments
 - Supports mock-paper workflows with results and mark schemes
 - Uses exam-board-aware prompting and validation
+- Newton.ai learns a students strengths and weaknesses, devises guided revsion strategies based on their abilities, exam dates and tracks the amount of the sylubus a student has covered
+- Newton behaves as a personal tutor with recomendations on daily lessons, what to focus on, encouragement and advice 
 
 ## Technology
 
@@ -96,15 +98,49 @@ The application has been tested against cases including:
 
 See [Testing](docs/testing.md).
 
-## Screenshots
+## Product showcase
 
-Add selected screenshots to the [`screenshots`](screenshots/) folder. Good choices are:
+### Personal dashboard
 
-1. Solver input and worked solution
-2. Automated marking and feedback
-3. Generated assessment
-4. Mock-paper workflow
-5. Results/dashboard view
+Newton.ai provides a personalised dashboard showing estimated performance, revision activity, syllabus coverage, weaker topics and recommended next steps.
+
+![Newton.ai personal dashboard](screenshots/Dashboard-png.png)
+
+### AI Maths Solver
+
+Students can enter an A-Level Maths question, select an exam board and topic, and choose between different solution styles.
+
+![Newton.ai Maths Solver](screenshots/solver.png)
+
+### Worked solutions and exam feedback
+
+Newton.ai generates structured working, a final answer and exam-focused feedback including examiner insight, common mistakes and typical marks.
+
+![Newton.ai worked solution](screenshots/solver-output.png)
+
+### Newton Teacher
+
+Newton Teacher provides conversational explanations of A-Level Maths concepts, with supporting mathematical visualisations where useful.
+
+![Newton Teacher](screenshots/teacher.png)
+
+### Generated mini assessments
+
+Students can generate topic-specific ten-question mini papers for targeted practice and automated marking.
+
+![Newton.ai mini assessment](screenshots/mini-paper.png)
+
+### Mock papers
+
+Newton.ai includes complete mock-paper workflows with full papers, completion tracking, results and matching mark schemes.
+
+![Newton.ai mock papers](screenshots/mock-papers.png)
+
+### Topic Explorer
+
+The Topic Explorer organises A-Level Mathematics across Pure Mathematics, Statistics and Mechanics for focused revision.
+
+![Newton.ai Topic Explorer](screenshots/topic-explorer.png)
 
 Avoid screenshots containing bearer tokens, API keys, email addresses, database IDs, private student data, or browser request headers.
 
