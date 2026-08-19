@@ -142,7 +142,6 @@ The Topic Explorer organises A-Level Mathematics across Pure Mathematics, Statis
 
 ![Newton.ai Topic Explorer](screenshots/topic-explorer.png)
 
-Avoid screenshots containing bearer tokens, API keys, email addresses, database IDs, private student data, or browser request headers.
 
 ## Repository scope
 
